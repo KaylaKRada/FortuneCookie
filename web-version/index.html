@@ -1,0 +1,24 @@
+            <!-- Project #1 Fortune Cookie (Java 1)-->
+            <button onclick="showFortune()" class="btn custom-btn custom-btn-bg custom-btn-link">
+                Get your fortune cookie ;)
+            </button>
+
+            <p id="fortune-message" style="font-weight: bold; margin-top: 10px;"></p>
+
+            <script>
+                function showFortune() {
+                    const fortunes = [
+                        "Your kindness will be repaid in ways you never imagined",
+                        "The answer you seek is hidden in plain sight... or your junk drawer",
+                        "A smile is your superpower - use it wisely",
+                        "You will debug something successfully.. but only after asking for help",
+                        "An unexpected detour may take you exactly where you need to be",
+                        "The best way to predict the future is to create it",
+                        "You will find a solution to a problem that has been bugging you",
+                        "You will soon find joy in the simple things - pay attention",
+                    ];
+                    const randomFortune = fortunes[Math.floor(Math.random() * fortunes.length)];
+
+                    document.getElementById("fortune-message").innerText = randomFortune;
+                }
+            </script>
