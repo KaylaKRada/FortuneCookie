@@ -23,8 +23,7 @@ I wrote a Java program that stores a list of quirky fortunes in an array. When i
 The result is a fun and simple fortune generator. Every time you run it, you get a new random message—sometimes funny, sometimes odd, always unpredictable. I shared it with some classmates, and we all got a kick out of seeing what the “fortune cookie” would say next.
 
 ### 💭 **Reflection**
-This project brings back some really good memories. It may have been small, but it was a turning point, it made programming feel alive. Since then, I’ve built more complex systems and explored different languages, but this project is a great reminder of how far I’ve come. If I revisited it, I’d love to turn it into a small GUI app, or even make it into a web-based fortune generator just for fun.
-
+This project brings back some really good memories. It may have been small, but it was a turning point, it made programming feel alive. Since then, I’ve built more complex systems and explored different languages, but this project is a great reminder of how far I’ve come. I actually revisited it later and re-created it in JavaScript so I could feature it on my portfolio site. Now, visitors can click a button and get a fortune instantly. It’s a small thing, but it shows how far I’ve come... from learning Java basics to building real, interactive web elements that bring a bit of joy to the user.
 ---
 
 ## 📁 Files Included
