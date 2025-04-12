@@ -27,7 +27,8 @@ This project brings back some really good memories. It may have been small, but 
 ---
 
 ## 📁 Files Included
-- `FortuneCookie.java` – Source code for the program  
+- [FortuneCookie.java](https://github.com/KaylaKRada/FortuneCookie/blob/main/src/FourtuneCookie.java) – Source code (Java Version)
+- [FortuneCookie.java](https://github.com/KaylaKRada/FortuneCookie/blob/main/web-version/index.html) – Web Version (JavaScript)
 - `README.md` – You're reading it!
 
 ---
